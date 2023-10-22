@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-raws1n.vercel.app](https://portfolio-raws1n.vercel.app)
 
-- 💬 Ask me about **react, next.js, express.js, javascript,typescript,node.js,mongodb**
+- 💬 Ask me about **React, Next.js, Express.js, Javascript,Typescript,Node.js,Mongodb**
 
 - 📫 How to reach me **dharmicsinga@gmail.com**
 
